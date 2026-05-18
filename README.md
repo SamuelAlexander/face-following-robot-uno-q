@@ -110,7 +110,7 @@ Place a **100 uF capacitor** across the servo power and ground rails to absorb c
 
 Connect the webcam to the USB-A port on the USB-C splitter. The USB-C side powers the UNO Q.
 
-![wiring](images/wiring.JPG)
+![wiring](images/wiring.jpg)
 
 > **Note:** The right servo is mounted mirrored relative to the left. The firmware handles this with a pulse inversion flag, no crossed wires needed.
 
