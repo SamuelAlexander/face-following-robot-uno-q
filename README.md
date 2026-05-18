@@ -22,7 +22,7 @@ The two processors communicate over **Bridge RPC**, a MessagePack-based protocol
 
 A browser-based **Web UI** lets you monitor detections and tune steering parameters live, no recompilation needed.
 
-![face-follow](images/face-follow.GIF)
+![face-follow](images/face-follow.gif)
 
 ### What you'll learn
 
@@ -333,7 +333,7 @@ def _watchdog_loop():
 
 The dashboard runs in any browser on the same network and provides live monitoring and parameter tuning.
 
-![web-ui](images/web-ui.PNG)
+![web-ui](images/web-ui.png)
 
 ### Features
 
@@ -366,7 +366,7 @@ All slider changes take effect immediately via Socket.IO, no restart required. T
 2. **Open the Web UI** at `http://<UNO_Q_IP>:7000`, you should see the video stream and detection events appearing in "Recent detections"
 3. **Verify servos**, press the **Motor Test** button in the UI. Both wheels should turn left, pause, then turn right. If not, check wiring and servo power before proceeding to face tracking.
 
-![face-follow](images/face-follow.GIF)
+![face-follow](images/face-follow.gif)
 
 ## Tuning guide
 
