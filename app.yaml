@@ -1,0 +1,7 @@
+name: Detect and follow robocar 2
+description: Robot car that follows a target object.
+bricks:
+- arduino:video_object_detection:
+    model: face-detection
+- arduino:web_ui: {}
+icon: 🚙
