@@ -51,8 +51,7 @@ A browser-based **Web UI** lets you monitor detections and tune steering paramet
 
 - **Arduino App Lab v0.6** or later (runs in-browser, no local install needed)
 - A computer on the same network as the UNO Q
-
-No Edge Impulse account is required, this project uses a built-in face-detection model. See [Next Steps](#next-steps) to train a custom model.
+- Edge Impulse Studio account
 
 ### Source code
 
