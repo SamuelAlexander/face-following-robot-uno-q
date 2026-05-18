@@ -352,7 +352,7 @@ All slider changes take effect immediately via Socket.IO, no restart required. T
 
 ## Deploy and run
 
-### Option A: App Lab GUI
+### App Lab GUI
 
 1. Open **Arduino App Lab** in your browser
 2. Create a new app or import the project files
