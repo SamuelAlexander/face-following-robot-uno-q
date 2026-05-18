@@ -356,7 +356,7 @@ All slider changes take effect immediately via Socket.IO, no restart required. T
 
 1. Open **Arduino App Lab** in your browser
 2. Create a new app or import the project files
-3. Click **Run, App Lab compiles the sketch, flashes the MCU, and starts the Python app
+3. Click **Run**, App Lab compiles the sketch, flashes the MCU, and starts the Python app
 
 ### First boot checklist
 
